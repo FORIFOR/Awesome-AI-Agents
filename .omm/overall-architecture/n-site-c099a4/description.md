@@ -1,0 +1,22 @@
+確認したパス: `site`。配下の登録ファイルは20件。
+
+- `site/.nojekyll`（一覧のみ）
+- `site/app.js`（内容確認済み）
+- `site/fonts/OFL.txt`（一覧のみ）
+- `site/fonts/README.md`（一覧のみ）
+- `site/fonts/bricolage-grotesque-latin-700.woff2`（一覧のみ）
+- `site/icon.png`（一覧のみ）
+- `site/icon.svg`（一覧のみ）
+- `site/icons/README.md`（一覧のみ）
+- `site/icons/activity.svg`（一覧のみ）
+- `site/icons/chevron-down.svg`（一覧のみ）
+- `site/icons/external-link.svg`（一覧のみ）
+- `site/icons/github.svg`（一覧のみ）
+- `site/icons/orbit.svg`（一覧のみ）
+- `site/icons/search.svg`（一覧のみ）
+- `site/icons/star.svg`（一覧のみ）
+- `site/index.html`（一覧のみ）
+- `site/resources.json`（一覧のみ）
+- `site/robots.txt`（一覧のみ）
+- `site/sitemap.xml`（一覧のみ）
+- `site/styles.css`（一覧のみ）

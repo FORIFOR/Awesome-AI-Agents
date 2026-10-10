@@ -364,3 +364,9 @@ Able to connect LLM with the real world.
 - [best-of-Agent-Harnesses](https://github.com/RyanAlberts/best-of-Agent-Harnesses) - Ranked list of 150+ agent harnesses across 12 categories, rescored weekly. Machine-readable: llms.txt, JSON, and an MCP server so your agent can query it. ![GitHub Repo stars](https://img.shields.io/github/stars/RyanAlberts/best-of-Agent-Harnesses?style=social)
 - [Awesome AI Coding Sandboxes](https://github.com/fhiltscher/awesome-ai-coding-sandboxes) - Security-posture-first list of sandboxes for running AI coding agents' code, ranked by isolation, egress control and secrets handling.
 - [awesome-ai-companion](https://github.com/DasterProkio/awesome-ai-companion) - Long-term AI companion systems: clients, memory and identity, proactive behavior, embodiment, shared activities, and continuity. 160 entries with language/platform/status metadata and a full Chinese translation.
+
+<!-- omm-scan-2026-10-11 -->
+
+## 構成図・依存関係
+
+[日本語の構成図と説明を見る](docs/architecture/omm-scan-2026-10-11/README.md)（2026-10-11 初回解析）。解析範囲と未検証事項はリンク先に記載しています。

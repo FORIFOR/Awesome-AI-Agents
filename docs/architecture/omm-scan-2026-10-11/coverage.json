@@ -1,0 +1,22 @@
+{
+  "repo": "FORIFOR/Awesome-AI-Agents",
+  "branch": "main",
+  "tree_sha": "7bc5e8134e5ed20ef60757f9502d7058f70821da",
+  "tree_files": 37,
+  "read_files": [
+    {
+      "path": "README.md",
+      "sha": "c0d907f8188393a91842d43d9887e1dee6f19c97"
+    },
+    {
+      "path": "site/app.js",
+      "sha": "463208959b35e6a3dc2da1ecc9e44c284178cb05"
+    },
+    {
+      "path": "scripts/build-site.mjs",
+      "sha": "dfe1f0e560d67815f1e5da15fb372938341a31b8"
+    }
+  ],
+  "not_read_count": 34,
+  "scope": "initial entry-point and direct-import analysis; not exhaustive semantic scan"
+}

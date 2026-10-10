@@ -1,0 +1,8 @@
+graph TD
+    source["ソース\nscripts/build-site.mjs"]
+    n-node-fs-promises-6b0834["node:fs/promises\n外部・別名・未解決"]
+    source -->|"字句抽出: import／export"| n-node-fs-promises-6b0834
+    n-node-url-d0cb3a["node:url\n外部・別名・未解決"]
+    source -->|"字句抽出: import／export"| n-node-url-d0cb3a
+    n-node-path-78811c["node:path\n外部・別名・未解決"]
+    source -->|"字句抽出: import／export"| n-node-path-78811c
